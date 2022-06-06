@@ -5,6 +5,7 @@ con elementos aleatorios de números enteros del 0 al 100.
 import numpy as np
 import random
 
+print("Bienvenidos a Matrices XD")
 matriz = np.diag([1,1,1]) #crear matriz 3x3 con diagonal con 1's
 print(matriz)
 
